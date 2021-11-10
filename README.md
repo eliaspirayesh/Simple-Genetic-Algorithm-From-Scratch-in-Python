@@ -1,3 +1,3 @@
-# Simple-Genetic-Algorithm-From-Scratch-in-Python
+# Genetic Algorithm
 
 Source: https://machinelearningmastery.com
